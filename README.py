@@ -1,13 +1,3 @@
-계산기
-
-a = int(input("첫번째 숫자 : ")) 
-b = int(input("두번째 숫자 : ")) 
-
-result = a + b print 
-( a , "+" , b, "=", result)
-result = a - b print 
-( a , "-" , b, "=", result)
-result = a * b print  
-( a , "*" , b, "=", result)
-result = a / b print 
-( a , "/" , b, "=", result) 
+이름: 박성우
+학번: 202001429 
+학과: 컴퓨터전자시스템공학
